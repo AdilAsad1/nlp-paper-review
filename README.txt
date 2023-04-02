@@ -14,13 +14,16 @@ Before 2010
 - https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6735273
 
 2015 - 2019
-
+- https://arxiv.org/abs/1805.07043
 - https://www.sciencedirect.com/science/article/pii/S0957417418306456
 - https://aclanthology.org/W19-6120/
 - https://arxiv.org/abs/1609.02745
+- https://ojs.aaai.org/index.php/AAAI/article/view/12020
 
 2020-2023
 
+- https://arxiv.org/abs/2004.12362
+- https://www.sciencedirect.com/science/article/pii/S0957417420300609
 - https://ieeexplore.ieee.org/abstract/document/8976252
 - https://ieeexplore.ieee.org/abstract/document/9611271
 - https://ieeexplore.ieee.org/abstract/document/9260162
