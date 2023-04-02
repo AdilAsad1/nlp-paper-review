@@ -8,7 +8,7 @@ Before 2010
 - https://dl.acm.org/doi/abs/10.1145/1645953.1646233
 
 2010 - 2014
-
+- https://direct.mit.edu/coli/article/37/2/267/2105/Lexicon-Based-Methods-for-Sentiment-Analysis
 - https://journals.sagepub.com/doi/pdf/10.1177/0165551510388123
 - https://ieeexplore.ieee.org/abstract/document/6637416
 - https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6735273
